@@ -1,0 +1,15 @@
+[project]
+name = "projetoia"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11,<3.13"
+dependencies = [
+    "fastapi>=0.139.0",
+    "numpy>=2.4.6",
+    "pillow>=12.3.0",
+    "python-multipart>=0.0.32",
+    "tensorflow>=2.21.0",
+    "tkinterdnd2>=0.6.2",
+    "uvicorn>=0.50.0",
+]
